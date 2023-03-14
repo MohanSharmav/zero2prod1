@@ -1,0 +1,9 @@
+
+application:
+  port: 8000
+database:
+  host: "localhost"
+  port: 5452
+  username: "mohanvenkatesh"
+  password: "Msvmsd183!"
+  database_name: "newsletter"
